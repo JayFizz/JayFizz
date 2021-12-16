@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayFizz
-- 👀 I’m interested in music, being creative, and craft beer.
+- 👀 I’m interested in JavaScript, Python, RPA, music, being creative, and craft beer.
 - 🌱 I’m currently learning python and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
